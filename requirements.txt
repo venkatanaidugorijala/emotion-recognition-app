@@ -1,7 +1,7 @@
 streamlit
-opencv-python
-numpy
+opencv-python==4.8.1.78
 tensorflow
 keras
+numpy
 scikit-learn
 Pillow
